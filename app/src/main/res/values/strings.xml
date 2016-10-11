@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyImageLoad</string>
+    <string name="httpErrorResponseCode">请求码异常，非200</string>
+    <string name="httpErrorResult">网络返回结果为空</string>
+    <string name="httpInternetIsNotUseful">没有网络连接</string>
+    <string name="httpRequestException">网络请求异常</string>
+</resources>
